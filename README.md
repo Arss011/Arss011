@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dicky Aris Munandar</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arss011" alt="arss011" /></a> </p>
+
 - 🔭 I’m currently working on [School Management System](xaress.my.id)
 
 - 👨‍💻 All of my projects are available at [xaress.my.id](xaress.my.id)
