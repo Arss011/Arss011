@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arss011" alt="arss011" /></a> </p>
 
-- 🔭 I’m currently working on [School Management System](xaress.my.id)
+- 🔭 I’m currently working on [School Management System](https://xaress.my.id/)
 
-- 👨‍💻 All of my projects are available at [xaress.my.id](xaress.my.id)
+- 👨‍💻 All of my projects are available at [https://xaress.my.id/](https://xaress.my.id/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dicky-aris-munandar-8bb109232/](https://www.linkedin.com/in/dicky-aris-munandar-8bb109232/)
 
